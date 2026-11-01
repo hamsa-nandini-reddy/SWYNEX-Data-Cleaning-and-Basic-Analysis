@@ -1,0 +1,15 @@
+{
+  "dataset": "GSE282302",
+  "official_source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282302",
+  "analysis_scope": "GEO sample metadata only; no full expression-matrix QC",
+  "sample_records_retrieved": 108,
+  "metadata_columns": 37,
+  "exact_duplicate_rows_removed": 0,
+  "duplicate_sample_accessions_remaining": 0,
+  "total_missing_cells": 0,
+  "overall_missing_cell_percent": 0.0,
+  "cleaned_metadata_csv": "/content/data/GSE282302_sample_metadata_clean.csv",
+  "missingness_csv": "/content/outputs/missing_value_summary.csv",
+  "summary_csv": "/content/outputs/basic_summary_statistics.csv",
+  "interpretation_note": "Missing annotations are reported, not automatically imputed. These checks do not assess gene-expression counts or sequencing quality."
+}
